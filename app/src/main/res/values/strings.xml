@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">510537</string>
+    <string name="no_connection">Geen verbinding!!</string>
+    <string name="error_activity_home">Er is iets fout gegaan</string>
+    <string name="action_add">Bericht toevoegen</string>
+    <string name="homelistitem_title">Listitem %d</string>
+    <string name="longclick">lang geklikt op: %s</string>
+    <string name="homelistitem_desc">Short introduction of the text from listitem %d to draw the attention of the user</string>
+    <string name="share">Deel</string>
+
+    <!-- Add_MessageActivity -->
+    <string name="title_label">Verzin een titel:</string>
+    <string name="title">Titel</string>
+    <string name="text_label">En voeg een text toe:</string>
+    <string name="text">Text</string>
+    <string name="send">Verstuur!</string>
+
+    <!-- Activities -->
+    <string name="title_activity_home">Messages List</string>
+    <string name="title_activity_add_message">AddMessageActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
